@@ -5,12 +5,9 @@ este proyecto consiste en forkear un repositorio con varios códigos y elegir un
 En este caso yo tome el código de enviar un mail y le cambie el logo por uno hecho por mí, también le cambie algunas líneas de código para tener
 un menu de opciones, el cual contiene tres mails, en este menu se puede ingresar cualquier mail aparte de las tres opciones de mail.
 
-(imagen del logo)
-![image\gmail.png]
+![Imagen del logo](image\gmail.png)
 
-asi seria un vistazo general de lo que seria el programa 
-![image\captura.png]
-
+![Vistazo del programa](image\captura.png)
 En el código, importe de tkinter un ttk (Tkinter Themed Widgets) que ayuda a la infaz gráfica para poder agregar el combobox (ingresar un mail y al
 mismo tiempo tener un option menu incluido).En el entry del destinatario para ingresar el mail le agregue el combobox.
 parte del código: combobox_destinatarios = ttk.Combobox
