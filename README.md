@@ -6,10 +6,10 @@ En este caso yo tome el código de enviar un mail y le cambie el logo por uno he
 un menu de opciones, el cual contiene tres mails, en este menu se puede ingresar cualquier mail aparte de las tres opciones de mail.
 
 imagen del logo
-![](/ENVIAR_MAIL/gmail.png)
+![](/ENVIAR_EMAIL/gmail.png)
 
 imagen del programa
-![](/ENVIAR_MAIL/captura.png)
+![](/ENVIAR_EMAIL/captura.png)
 
 En el código, importe de tkinter un ttk (Tkinter Themed Widgets) que ayuda a la infaz gráfica para poder agregar el combobox (ingresar un mail y al
 mismo tiempo tener un option menu incluido).En el entry del destinatario para ingresar el mail le agregue el combobox.
